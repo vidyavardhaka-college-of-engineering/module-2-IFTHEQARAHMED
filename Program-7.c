@@ -2,8 +2,8 @@ INPUT - 3 1 2 3
 OUTPUT- 3 2 1
 
 //INSERT THE MISSING CODE 
-#<stdio.h>
-	int main()
+#include<stdio.h>
+int main()
 	{
 	  int a[10],i,n;
 	  printf("Enter size of the array and the array elements");
